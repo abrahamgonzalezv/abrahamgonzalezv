@@ -23,8 +23,6 @@
 ### 👨‍💻 Lenguajes de programación
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38"/>
 </p>
 
 ### 🌐 Frontend
@@ -47,8 +45,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="38" height="38"/>
 </p>
 
-    </td>
-    <td width="50%" valign="top">
+   
 
 ### 💻 IDEs y editores
 <p>
@@ -70,11 +67,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="38" height="38"/>
 </p>
 
-### ☁️ Cloud & Deploy
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="38" height="38"/>
-</p>
 
-    </td>
+
+    
   </tr>
 </table>
