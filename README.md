@@ -1,15 +1,15 @@
 # <h1 align="center">Un gusto conocerte, soy Abraham González 🚀</h1>
 
-<p align="center">
-  Soy un desarrollador backend y software engineer apasionado por la tecnología y el aprendizaje continuo. Disfruto construir servicios web, explorar nuevas herramientas y entender cómo funcionan las cosas para mejorar constantemente.
+<p align=>
+  Soy un desarrollador backend apasionado por la tecnología y el aprendizaje continuo. Disfruto construir servicios web, explorar nuevas herramientas y entender cómo funcionan las cosas para mejorar constantemente.
 </p>
 
-<p align="center">
-  Actualmente trabajo principalmente con Java, Spring Boot, MySQL y arquitecturas de microservicios, mientras continúo explorando herramientas del ecosistema cloud y DevOps.
+<p align=>
+  Actualmente trabajo principalmente con Java, Spring Boot, MySQL y arquitecturas de microservicios, mientras continúo explorando herramientas del ecosistema DevOps.
 </p>
 
-<p align="center">
-  En mi tiempo libre disfruto escuchar música y aprender cosas nuevas. Siempre estoy en busca de desafíos y oportunidades para seguir creciendo profesionalmente y contribuir a proyectos de impacto.
+<p align=>
+  En mi tiempo libre disfruto escuchar música, jugar frontón y aprender cosas nuevas. Siempre estoy en busca de desafíos y oportunidades para seguir creciendo profesionalmente y contribuir a proyectos de impacto.
 </p>
 
 ---
