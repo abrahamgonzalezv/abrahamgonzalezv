@@ -16,10 +16,10 @@
 
 <h2 align="center">🔥 Habilidades 🔥</h2>
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<table width="100%" style="border: 1px solid #30363d; border-radius: 6px; border-collapse: collapse;">
   <tr>
     <!-- COLUMNA IZQUIERDA -->
-    <td width="50%" valign="top" style="border-right: 2px solid #30363d; padding-right: 20px;">
+    <td width="50%" valign="top" style="border-right: 1px solid #30363d; padding: 20px;">
 
 ### 👨‍💻 Lenguajes de programación
 <p>
@@ -62,7 +62,7 @@
     </td>
     
     <!-- COLUMNA DERECHA -->
-    <td width="50%" valign="top" style="padding-left: 20px;">
+    <td width="50%" valign="top" style="padding: 20px;">
 
 ### 💻 IDEs y editores
 <p>
